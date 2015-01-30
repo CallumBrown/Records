@@ -4,7 +4,7 @@
 
 
 class PaySlipGenerator:
-    def __innit__(self):
+    def __init__(self):
         self.name = None
         self.number = None
         self.hoursWorked = None
